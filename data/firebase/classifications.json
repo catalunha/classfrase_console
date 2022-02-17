@@ -1,0 +1,1008 @@
+[
+    {
+        "id": "PRpWYm0wwqDdmFzBvKJ1",
+        "group": {
+            "d4751a32-5bb1-4673-9451-0026281af9b3": {
+                "title": "Fonética"
+            },
+            "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a": {
+                "title": "Estilística"
+            },
+            "17e4650e-d054-4ace-8608-fd988c898723": {
+                "title": "Semântica"
+            },
+            "720c16e8-f119-44b8-82dd-80ade6e2feae": {
+                "title": "Morfologia"
+            },
+            "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc": {
+                "title": "Sintaxe"
+            }
+        },
+        "category": {
+            "b5e66283-bc60-4968-8004-544a21d54f18": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva - Predicativa"
+            },
+            "b9d66aa6-07a8-4371-842b-096fec48fdaa": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Antônimos"
+            },
+            "1123eea2-9069-41b9-9462-07c5497d32c3": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Personificação"
+            },
+            "df6bdbe0-7a48-4cfe-a3f3-e67662848782": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Coordenativa - Conclusivas"
+            },
+            "a4eab314-97a7-429f-8b67-b9ce05b96d8e": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Tipo: Interrogativa (?)"
+            },
+            "08096fbe-4e8a-47a1-bb0d-f37d8f51e2a5": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo"
+            },
+            "b67dc089-9fd1-4bc9-a509-3cc1f30abf79": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Futuro"
+            },
+            "03397d46-c80c-4f55-898d-e65e1516d536": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Principal"
+            },
+            "82988873-b90b-4284-9632-1146974760a0": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Tipo: Imperativa (.!)"
+            },
+            "7a50e492-f497-4ba6-b9cd-ec97afdd13c8": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Intransitivo"
+            },
+            "1ba88519-5cb1-4d87-bdf5-024e7af152ae": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Primitivo"
+            },
+            "b4627f91-c5c1-45b8-8886-3be5c0c120f3": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Final"
+            },
+            "12f45f49-ab2b-4001-96b3-1df97a58cf0e": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Aposto"
+            },
+            "41f82ae4-4fee-430a-8fcb-41b4aed8d531": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo - Número: Plural"
+            },
+            "ac7c6349-c19a-4be2-b11a-0e3bc29eff63": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Conformativa"
+            },
+            "fc20add9-6635-4884-9f56-1de053cc9037": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Paradoxo"
+            },
+            "7637420c-a14e-4cc2-9524-4aab0c580415": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Pessoa: 2ª"
+            },
+            "24fc181f-f1eb-420c-aca8-a75b723d3cec": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Predicado - Nominal"
+            },
+            "657a0759-5b84-4d32-92e4-603d2df57af2": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Grau: Igualdade"
+            },
+            "f2805f93-0783-4e5c-878d-a3f16f5c5052": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Preposição - Locução"
+            },
+            "b239d4cc-0cf7-431a-918f-f1975a572c8a": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Concessiva"
+            },
+            "67f1785e-03ad-4d07-b2c8-173271ccb2e8": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Forma nominal: Infinitivo"
+            },
+            "f8d31996-c274-418c-bf31-a289671293ce": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Complemento nominal"
+            },
+            "ee34aa79-0f15-4440-b2fd-a8397fd935fe": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Concreto"
+            },
+            "125851a3-5099-4161-8ce3-c24a32cf99b1": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Perífrase"
+            },
+            "5f5722c9-8177-49c4-a3f8-66777b96b8e6": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Comum"
+            },
+            "fe130382-4cbb-4dd4-942c-8084cb3b878c": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Coordenada - Conclusiva"
+            },
+            "057fa48e-d31f-49e3-862e-66832e05d982": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Vocativo"
+            },
+            "696662e4-94c0-4f0c-952a-4f4429bbb30b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Proporcional"
+            },
+            "ee99eb99-bc81-4669-9f70-26b9d9d368d8": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Número: Plural"
+            },
+            "b18c036f-60ec-4606-9927-344d962c5775": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Primitivo"
+            },
+            "316e2b4c-9ff9-465c-b139-ba80d466cdb0": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Grau: Superlativo absoluto - Analítico"
+            },
+            "b63b01c9-2e10-46f9-8e23-aec69cf08dc1": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Concessiva"
+            },
+            "653292eb-04f9-470e-8786-138aa0b2ae47": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Causal"
+            },
+            "c5be7b34-557b-4641-b818-e6b7e3da612a": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Adjunto adverbial"
+            },
+            "b0d2680f-9295-456b-8c69-b907f7992e99": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva - Objetiva Direta"
+            },
+            "4ade8bd5-b89e-46d9-8ddc-1d6655335f06": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva - Apositiva"
+            },
+            "6c191d07-77da-4838-aaf0-c627c5413925": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Incerto"
+            },
+            "8d0cd110-295d-49e9-933c-72049eec7234": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Coordenada"
+            },
+            "52f81612-e7c1-410a-8e88-31f5d6a6bf21": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Locução"
+            },
+            "8dc7f235-27f8-4d4e-8284-47b9d0396bf2": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Gênero: Feminino"
+            },
+            "487ffbcb-1dd5-4b20-8d8b-9d8ad0dd00d9": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Consecutiva"
+            },
+            "1296e277-d888-4cb9-8dfd-c6c4084bb6b9": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Interjeição"
+            },
+            "c04b518d-c4d6-49cc-a4cd-ba582bae6878": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva - Objetiva Indireta"
+            },
+            "7153b94f-cf25-4b1a-a9b9-ca3b89c50d6d": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Gênero: Masculino"
+            },
+            "268545eb-fca4-46d5-8eb1-b2087ce25183": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo - Gênero: Masculino"
+            },
+            "38d4c4eb-0d5d-4e15-a6f2-3d71d323b096": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Biforme"
+            },
+            "3b7f3e3a-3395-4c7b-bf4e-f3fd6c1e2506": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Locução"
+            },
+            "c08a7075-048f-46f5-80d2-3169e75c762d": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Denotação"
+            },
+            "e15f776e-fefa-4813-9078-ae98293d8947": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Gênero: Masculino"
+            },
+            "b761d197-286f-4e28-9c97-96614854d88e": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Onomatopeia"
+            },
+            "93acbb55-ba44-4954-9ee7-916eb1be0757": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Condicional"
+            },
+            "342a7609-dfda-4932-86f9-98a16348d3a6": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Grau: Superioridade"
+            },
+            "186c16c4-93e1-4d18-8fd5-ffee98456f26": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração"
+            },
+            "dce3127a-ab6a-48a7-92f1-a7b2cd31f58e": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Numeral - Tipo: Coletivo"
+            },
+            "473e4a6d-6002-462d-bc45-9a9f31e42f27": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva"
+            },
+            "6864e6aa-a98b-402b-8da9-ded85ddb29e7": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Superlativo - Absoluto - Analítico"
+            },
+            "c6661ccf-4d9f-4643-84f6-0a7db55d5bee": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Derivado"
+            },
+            "a9717c3a-bfe4-41f7-9b47-cc3349e853c7": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Uniforme"
+            },
+            "1fa2b9fc-5f79-4b57-8b7f-67ffd4f04f2b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Forma nominal: Particípio"
+            },
+            "a04839a4-4808-4ef1-b585-ca8e133ab879": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Eufemismo"
+            },
+            "03e7be38-84a7-4a4f-a688-9ca8a0cfa4f9": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção"
+            },
+            "ff62bd86-9a78-4ee6-9d12-f3ff37a73374": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Elipse"
+            },
+            "6dd5368d-dae3-40e9-8a46-d2c7b53cb0cf": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Transitivo"
+            },
+            "a8357e3f-0ea6-42f6-aae8-0532fd00a4b5": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Hipérbole"
+            },
+            "917eedd5-6113-4557-9b7c-5e7d80b4d569": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Simples"
+            },
+            "a89ea74b-1f16-45e4-a21f-babe5012042e": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Tritongo"
+            },
+            "ad97b8bb-8da1-4853-9e7a-3c9b6c4ce0f5": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Grau: Aumentativo"
+            },
+            "8fcf8338-6b65-4503-bfea-96bb2ea41714": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Voz: Passiva"
+            },
+            "118b39d9-3170-4b67-a681-36d0691fb7f9": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Inferioridade"
+            },
+            "d29045fe-0edd-433a-b546-69200977c965": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Condicional"
+            },
+            "eed86476-cfee-4245-a57a-581bb0cc3c68": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Ditongo"
+            },
+            "65130387-aa6b-4b65-af25-a4460826605b": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Predicado - Verbal"
+            },
+            "627ba9c0-8abf-4cd7-bf7e-a2059f1d760c": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Numeral - Tipo: Multiplicativo"
+            },
+            "ec747100-e9f4-4649-984c-7d3c667ff585": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Comparativa"
+            },
+            "c361cd9d-a631-469e-8b43-c9e49de81b69": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Coordenativa - Explicativas"
+            },
+            "6730a283-ca5f-4be9-a926-805a0b61a939": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adjetiva - Restritiva"
+            },
+            "713befec-2ce5-4836-905a-e644e065cf2b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Conjugação: 3ª"
+            },
+            "95e4cb44-7507-43a5-a549-1713efbdd03b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Comparativa"
+            },
+            "4bcc6621-339f-4bb9-bc87-711351b3b7cf": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Parônimos"
+            },
+            "4dd4d0ef-8d46-439f-91ff-46f192ea5fc9": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Numeral - Tipo: Cardinal"
+            },
+            "52ad8968-5501-4b66-83ea-4181b061c30d": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Pretérito"
+            },
+            "9d34c9de-b1e8-4ee8-9dde-9c9344ff11ae": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Coordenada - Aditiva"
+            },
+            "9a9bf837-a56f-4762-b1a8-243319c46a6a": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Conformativa"
+            },
+            "95e9de25-77a7-493c-a34a-49b5904a39ac": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Relativo"
+            },
+            "7cbb9a84-3e15-4543-8e27-995e21962426": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Consecutiva"
+            },
+            "3305c3a0-a225-493d-be2c-0bba27881800": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Gradação"
+            },
+            "78d81b79-1200-4af0-9e03-11744b36d6b9": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Adjunto adnominal"
+            },
+            "632db470-1579-4cbb-9ba7-d7cdcf32f536": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Indefinido"
+            },
+            "b6b1c093-d201-4a90-94e2-aa282ebeda06": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Próprio"
+            },
+            "72b224f2-b9dd-4cef-8f4e-bd6a5ee852e8": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Retificação"
+            },
+            "52659fa2-b9e1-402b-a04a-08d8b397cc8b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Epicenos"
+            },
+            "695383a7-7ff6-45a8-aad9-70a1f3c1f0b3": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Silepse - Gênero"
+            },
+            "56c451ea-a6cf-426b-8224-a704e363d842": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Pessoa: 3ª"
+            },
+            "05a5c7d4-125e-4fe9-9d5c-e0d17b25ab15": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Oxítona"
+            },
+            "eb613d91-f3c0-478c-9bed-14e0fd6c92b1": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo"
+            },
+            "96345139-cb63-4853-ab1a-d1ec908a9ffb": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Sujeito"
+            },
+            "909574e9-38b3-423e-af4b-8ee66e58ebab": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Silepse"
+            },
+            "0fa653c8-cd41-4da0-8a8d-6038dd2e00c6": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Masculino"
+            },
+            "5dd9d162-f7c0-4a33-9a12-019f60f0fe34": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Conjugação: 1ª"
+            },
+            "56f48d4a-3b23-4ad8-9586-df4fc74a7b1a": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Silepse - Número"
+            },
+            "21349f72-0526-4289-adc1-240d667fe22f": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Numeral - Tipo: Ordinal"
+            },
+            "5d6ece70-a90d-4a8c-85d7-a28764064ed8": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adjetiva"
+            },
+            "a27c2904-ec12-4f1c-8c20-b60bc3322c58": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Numeral - Tipo: Fracionário"
+            },
+            "aa72c6c1-9b99-404f-8010-2a24e6648fbf": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Objeto direto"
+            },
+            "15370747-8d3b-41ee-b12c-511b95c0b204": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Modo: Imperativo - Afirmativo"
+            },
+            "1839fd3d-cfd6-4107-a915-fd7fc6db49ce": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Superlativo - Relativo - Inferioridade"
+            },
+            "36ea9dbd-1b3d-482a-bb57-f8d1a291efbd": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio"
+            },
+            "8382a446-618f-42ba-812e-e07f3373b66b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Composto"
+            },
+            "b1446363-8718-482a-a171-36b59946a964": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Gênero: N/A"
+            },
+            "cf6b8c36-1ef3-4a78-b373-983c01153b80": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Coordenada - Adversativa"
+            },
+            "826c591b-b5eb-4eb3-8b50-45480d926d52": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Pessoa: 2ª"
+            },
+            "34f91695-3fe4-4637-9cb3-12dee4f3d0c6": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo - Gênero: Feminino"
+            },
+            "26478e85-1188-494b-940b-e4a8f5627568": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Polissílaba"
+            },
+            "2d4615bc-7f60-44af-a48f-046e62b4a408": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Homônimos"
+            },
+            "66c32c78-f813-4efd-b80a-c521fb72f349": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Sinestesia"
+            },
+            "149bf39b-e924-4e0c-a314-09745998068c": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Silepse - Pessoa"
+            },
+            "658d04c5-7164-4f9d-9d97-fbf1be68c574": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Reticência"
+            },
+            "4d657ec9-aea6-49d9-92b4-17292c5c6344": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Coletivo"
+            },
+            "1976bf4e-6486-4d2e-a5b9-8f63865b503f": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Auxiliar"
+            },
+            "1c4617c3-1ccf-46c8-8b8c-28566d370e51": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Repetição"
+            },
+            "989da1ee-3d14-4ae8-b77a-c170c167406e": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Metonímia"
+            },
+            "99eadb16-98db-4721-a9e8-7f2ff65230e6": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Pátrio"
+            },
+            "a6577e45-db9d-49a1-a1a1-a1383ae32da2": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Dígrafo"
+            },
+            "6462cabb-bb4a-4a09-bb46-0b63313a6db2": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Ligação"
+            },
+            "4cdffabf-164f-4179-9ff2-a59ea5a18d77": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Coordenada - Explicativa"
+            },
+            "22343020-d444-4d6e-90c9-4fd497b15361": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Forma nominal: Gerúndio"
+            },
+            "b04c6a6b-2646-4874-b88a-f27b88f35f2d": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Símile"
+            },
+            "bca13ed7-15e6-4057-b814-c5237fb0425a": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Número: Singular"
+            },
+            "5a0034b9-3e70-419e-9e5e-898ca6785b6c": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Preposição - Tipo: Essencial"
+            },
+            "ffc159c4-8870-4708-b0e3-ef2c5aca77d4": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Número: Plural"
+            },
+            "04ca2142-ee84-4c15-98e2-f5b15073b4bf": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Grau: Superlativo absoluto - Sintético"
+            },
+            "dcd7988e-3d61-425f-9f22-92b39d56abfd": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Bitransitivo"
+            },
+            "3736bc90-9641-4744-b9de-5be5d52ca74e": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Antítese"
+            },
+            "a009368d-440c-479b-8c92-5ada8322442c": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Futuro - do pretérito"
+            },
+            "fa017602-c8fe-469f-aeb9-b11f528042fd": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Número: Plural"
+            },
+            "e9ed10cc-7383-4061-b9fd-5df170893abc": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Tipo: Exclamativa (!)"
+            },
+            "2377be34-62c7-4183-9868-7988005a74af": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Igualdade"
+            },
+            "5959061f-16a3-4c65-ab51-b10b1b3e4e37": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Predicado - Verbo-nominal"
+            },
+            "f5f82624-137d-4e83-be67-6a9b66239c34": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Pessoa: 3ª"
+            },
+            "46b4331f-c71e-498a-895a-37fc6cdd21a4": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Simples"
+            },
+            "491e4bc9-8d1f-4ff6-a5e7-08188527e583": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Causal"
+            },
+            "29138c50-19d7-4765-88a8-1930df7f2111": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Superioridade"
+            },
+            "771ce91e-ee48-4373-8e0e-18f8e845ca38": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Lugar"
+            },
+            "ed5239d5-21e4-4e53-a3a1-fc5ee7738736": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Conotação"
+            },
+            "b1365373-e8cd-4eb9-8a00-1186d9f86b6f": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Coordenativa - Alternativas"
+            },
+            "64ad3c50-7f2b-4568-8a90-0d3c61c738d4": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Futuro - do presente"
+            },
+            "daedd463-73aa-408e-bcfa-1fb248cd650f": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Número: Singular"
+            },
+            "67873202-5230-4ee8-bd7c-381f118bbb70": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Interrogativo"
+            },
+            "aecccc91-5b15-4b8d-bd22-a066bf6cc303": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Monossílaba"
+            },
+            "aa8366e3-a402-4ed8-a289-e24c7cac1c9d": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Sinônimos"
+            },
+            "3ee9029f-f3df-416e-9004-889a3a27c10e": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Comparativo - Inferioridade"
+            },
+            "4bda26bd-b7b9-4027-ac1c-1b2e87e87b73": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Preposição - Tipo: Acidental"
+            },
+            "71e5a316-1777-4613-b3e7-e55d71c0cc8b": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Modo: Imperativo"
+            },
+            "7ea047b8-c526-4643-bdf5-f842a59f4934": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial"
+            },
+            "49a0edd4-e625-460e-b303-e7931052c229": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Final"
+            },
+            "8dbfedfa-81c9-45d1-9105-1314cafeb520": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Objeto indireto"
+            },
+            "b3087912-fe0e-45eb-8a93-a02a29bb4dec": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Afirmação"
+            },
+            "464f958f-4fca-45aa-abe3-4a768ba40a81": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Dissílaba"
+            },
+            "acf2733f-9733-4382-a42a-aa80b443bf92": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Metáfora"
+            },
+            "d7aa02c7-0663-4bb1-a7bf-99cc4e2d76a2": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Dúvida"
+            },
+            "7dd8b25f-4bc3-4875-96e8-f51d01812924": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Demonstrativo"
+            },
+            "89eb1b1e-9212-4bf7-bc8a-731f9cd6c25b": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Predicado"
+            },
+            "47eb4fb0-bc3f-4dff-8e3a-9e3a9a13a538": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Numeral"
+            },
+            "32fd75fd-da6f-4038-bd87-41781548c138": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Coordenativa - Adversativas"
+            },
+            "6beb2044-8862-4785-acfa-aa8a0d9bc62e": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Pessoa: 1ª"
+            },
+            "de70388f-018b-4653-b940-8f79565aeab3": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Coordenada - Alternativa"
+            },
+            "d91b6e0c-3508-4f42-8500-e239ad20cd89": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Período: Composto por subordinação"
+            },
+            "383178e6-aada-4c86-b92b-2e1a1af2e7eb": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Pretérito - Imperfeito"
+            },
+            "38f29fbd-5654-4ec7-b4fd-9b3260587f9d": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo"
+            },
+            "d24c17b4-5588-4c8d-adbe-c572c4f6117a": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Transitivo indireto"
+            },
+            "21e963a5-14a4-442c-aabc-74897d39ad20": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Trissílaba"
+            },
+            "08fb1889-17ad-4b48-b631-28e4f7006382": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Modo: Imperativo - Negativo"
+            },
+            "5bcdb5e0-1032-4482-ba35-f3871529185c": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Presente"
+            },
+            "176a0464-22fa-4094-8dc3-036d0cc8b753": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Predicativo do objeto"
+            },
+            "2c037be0-abc2-478b-80c0-be417fc8788a": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Sobrecomum"
+            },
+            "dc5185ae-9239-4cc7-a79f-9b28933f97f5": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Tratamento"
+            },
+            "749be49d-1067-441e-b958-b87af7544916": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Sinédoque"
+            },
+            "8b8d5731-8919-4312-8ca5-ef94bb4aa548": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Comum de dois"
+            },
+            "79eb0633-f647-4b09-a107-93fa67e48904": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Temporal "
+            },
+            "62f92042-7b53-4ab2-a6dc-5efed801a2d6": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Gênero: Feminino"
+            },
+            "96d6c0a1-2513-4b1d-9d79-b5ac616b7926": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo"
+            },
+            "a813552e-2add-4790-a53c-ce30f2ce74ef": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Forma nominal: Infinitivo pessoal"
+            },
+            "f5418421-bfab-4c8d-ae45-7b3cd6f69130": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Proparoxítona"
+            },
+            "02cb4277-76a5-4545-8f28-7f62536c4646": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Número: Singular"
+            },
+            "886d2155-3ab4-4fc1-821a-07dc34db16bf": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Tempo"
+            },
+            "61e6e60e-de90-4a9c-9a6a-0e513099284c": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Negação"
+            },
+            "791b0eba-27aa-4834-912b-5a6957f6693d": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva - Completiva nominal"
+            },
+            "010a3a2e-c8b4-4247-8a6f-73655ab01f35": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Gênero: Feminino"
+            },
+            "30a885c2-41aa-49a2-83e8-f4f0d6671e39": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Hiato"
+            },
+            "43bfe137-039f-4baa-ab41-6cf1b3b4f547": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Coordenativa - Aditivas"
+            },
+            "1bd1c980-9e92-4c69-a8a1-15eaf2db73b9": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Pessoa: 1ª"
+            },
+            "a8af2306-1bf8-41cf-b648-d710400ec679": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome"
+            },
+            "8b538289-a7f8-407f-8b95-d9cf1e0e4049": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Diminutivo"
+            },
+            "b057639c-3080-47a8-a737-72c583bab87a": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo - Tipo: Indefinido"
+            },
+            "059ab63e-f1a9-4470-8c25-1e27b3722373": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Predicativo do sujeito"
+            },
+            "f70cdddc-261c-4425-ac1e-765b7dd5ef94": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Comparativo - Superioridade"
+            },
+            "78457ef4-1349-4625-8d74-72b22b077423": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Modo: Indicativo"
+            },
+            "bcf39012-5633-4ab1-a6bc-4465b0af1e62": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Voz: Reflexiva"
+            },
+            "4b947359-3a0c-494f-87c5-9c5008458f04": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Abstrato"
+            },
+            "a1363b2e-11d6-463d-869e-4da4f394c060": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Grau: Diminutivo"
+            },
+            "705a027f-4c0a-49a4-9d61-0abd5b4e8d7e": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Modo: Subjuntivo"
+            },
+            "e1a1a9d9-e77e-45e2-897f-7dd4ebfdb399": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Polissíndeto"
+            },
+            "a568567f-0833-4911-ace0-e422ab963834": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Grau: Inferioridade"
+            },
+            "b9af1879-ce69-470d-87cc-4f605da9ffcc": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Coordenativa"
+            },
+            "5c3b8c1f-9903-44e8-8450-00dd2b917aed": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo - Tipo: Definido"
+            },
+            "bb3d73bc-ce41-4a12-805f-8f6de20c12af": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Período: Composto por coordenação"
+            },
+            "996d49fa-a140-4727-be81-3ec943b2d64e": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada"
+            },
+            "ce2b79d2-bb87-4bcc-b000-df6179339ec3": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Substantiva - Subjetiva"
+            },
+            "3828d31b-f1a2-4670-8bfa-c23fd077d17f": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Temporal "
+            },
+            "5f0def22-9aff-4327-8372-8a1fd720a588": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Composto"
+            },
+            "42601a71-9f8c-45c2-9df8-3d6416989c1a": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Inversão"
+            },
+            "48a14264-031d-4ca3-ab1a-b81c49669fed": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Artigo - Número: Singular"
+            },
+            "369af9a8-e664-4c67-8983-273ef90f24b3": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Agente da passiva"
+            },
+            "f9933bac-b807-4ba5-8365-1aa78c7b7cdb": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tipo: Transitivo direto"
+            },
+            "d1c3c084-6f43-442d-a23f-881bc5407227": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Intensidade"
+            },
+            "c4075ab7-173e-4bce-9ca9-3915225c071e": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Período: Misto"
+            },
+            "5df990dc-6822-4089-9a1e-20e5c87f218c": {
+                "group": "17e4650e-d054-4ace-8608-fd988c898723",
+                "title": "Polissemia"
+            },
+            "03912922-993a-4f72-b4fa-4e737d31399d": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Tipo: Declarativa (.)"
+            },
+            "37c75264-c234-434f-873f-8e4f51f70c79": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Pleonasmo"
+            },
+            "601dc42d-4043-4a11-a82e-53be13fdf230": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Anacoluto"
+            },
+            "cf414328-0155-4aba-885c-91932ebfc964": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Voz: Ativa"
+            },
+            "d5124814-7265-4c13-a6d6-305833620183": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Pretérito - Mais-que-perfeito"
+            },
+            "7922c2ab-8cea-4905-adba-e4c32075d67c": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Apóstrofe"
+            },
+            "308ca4ef-a8e6-42f1-b481-2b2f2d06acbb": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Superlativo - Absoluto - Sintético"
+            },
+            "1fc8f584-fa09-48db-b3d1-9a3474e9bd6a": {
+                "group": "d4751a32-5bb1-4673-9451-0026281af9b3",
+                "title": "Paroxítona"
+            },
+            "5a471cda-8773-4dd6-8237-10a27b79d316": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Catacrese"
+            },
+            "c0960a1a-e572-4a17-82f9-2f4f47cc879e": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Conjugação: 2ª"
+            },
+            "96de8b21-7b8a-4ff0-a1b4-ae84aa97a229": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Substantivo - Tipo: Derivado"
+            },
+            "0e5412f5-b67d-4480-835b-3cdc768b26eb": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adverbial - Proporcional"
+            },
+            "8a98a6e3-f42e-411b-806f-ec8a9121d4ee": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Oração - Subordinada - Adjetiva - Explicativa"
+            },
+            "1209cbc3-9fb5-4128-93fa-cae490b2250c": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Pessoal"
+            },
+            "00451975-b8fa-4839-af27-536b991a3a46": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Preposição"
+            },
+            "381b47d7-d999-447e-b838-f2c22f64e0a8": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Número: Plural"
+            },
+            "439c1acb-c89d-4dc8-a01b-8fef360b0174": {
+                "group": "fcb86ff1-859e-465b-8b9c-2ee88ebe84cc",
+                "title": "Período: Simples"
+            },
+            "2dc9a5a1-ab95-4441-a377-7d2bdceb98e7": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Advérbio - Tipo: Modo"
+            },
+            "2e32e2d1-b0af-4078-98da-67611a7e49be": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Aumentativo"
+            },
+            "4a80c3f6-a64b-4cca-a488-53d5eede893f": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Pronome - Tipo: Possessivo"
+            },
+            "f071e926-2935-42cb-bed8-7fc82d673d07": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Comparativo - Igualdade"
+            },
+            "e5554532-cfe4-4c69-a001-8b9ea8e6aede": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa - Integrante"
+            },
+            "cfea4000-932e-45f9-beaa-59508142d847": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Tipo: Biforme"
+            },
+            "1db64fbd-296a-406d-82f2-42cecae275de": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Tempo: Pretérito - Perfeito"
+            },
+            "8ce17357-8c1b-4ecb-a777-7e797c4ff812": {
+                "group": "9c530272-5cf6-4db1-89ab-3ad6f0e2fc0a",
+                "title": "Ironia"
+            },
+            "c8593e6a-f7be-4fb2-9db4-634df335e716": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Conjunção - Tipo: Subordinativa"
+            },
+            "627f2ff0-ad90-4250-87b2-7f5af493b2ae": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Verbo - Número: Singular"
+            },
+            "6070bcb5-38c6-4b5f-b715-cabb9e8cd9dc": {
+                "group": "720c16e8-f119-44b8-82dd-80ade6e2feae",
+                "title": "Adjetivo - Grau: Superlativo - Relativo - Superioridade"
+            }
+        }
+    }
+]

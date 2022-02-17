@@ -1,0 +1,84 @@
+[
+    {
+        "id": "b9d66aa6-07a8-4371-842b-096fec48fdaa",
+        "title": "Antônimos",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "Descreve a forma contrária a outra palavra e,ou frase",
+        "filter": [
+            "ngb",
+            "cc"
+        ],
+        "url": null
+    },
+    {
+        "id": "ed5239d5-21e4-4e53-a3a1-fc5ee7738736",
+        "title": "Conotação",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "",
+        "filter": [
+            "ngb"
+        ],
+        "url": null
+    },
+    {
+        "id": "c08a7075-048f-46f5-80d2-3169e75c762d",
+        "title": "Denotação",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "",
+        "filter": [
+            "ngb"
+        ],
+        "url": null
+    },
+    {
+        "id": "2d4615bc-7f60-44af-a48f-046e62b4a408",
+        "title": "Homônimos",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "",
+        "filter": [
+            "ngb"
+        ],
+        "url": null
+    },
+    {
+        "id": "4bcc6621-339f-4bb9-bc87-711351b3b7cf",
+        "title": "Parônimos",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "",
+        "filter": [
+            "ngb"
+        ],
+        "url": null
+    },
+    {
+        "id": "5df990dc-6822-4089-9a1e-20e5c87f218c",
+        "title": "Polissemia",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "",
+        "filter": [
+            "ngb"
+        ],
+        "url": null
+    },
+    {
+        "id": "13167d8e-6809-4bb0-9b17-803be9929dde",
+        "title": "Sentido figurado",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "*",
+        "filter": [
+            "Undefined"
+        ],
+        "url": null
+    },
+    {
+        "id": "aa8366e3-a402-4ed8-a289-e24c7cac1c9d",
+        "title": "Sinônimos",
+        "group": "17e4650e-d054-4ace-8608-fd988c898723",
+        "description": "Descreve uma palavra com igual significado",
+        "filter": [
+            "ngb",
+            "cc"
+        ],
+        "url": null
+    }
+]

@@ -1,0 +1,8 @@
+Antônimos	Descreve a forma contrária a outra palavra e,ou frase	[ngb,cc]	b9d66aa6-07a8-4371-842b-096fec48fdaa	17e4650e-d054-4ace-8608-fd988c898723
+Conotação		[ngb]	ed5239d5-21e4-4e53-a3a1-fc5ee7738736	17e4650e-d054-4ace-8608-fd988c898723
+Denotação		[ngb]	c08a7075-048f-46f5-80d2-3169e75c762d	17e4650e-d054-4ace-8608-fd988c898723
+Homônimos		[ngb]	2d4615bc-7f60-44af-a48f-046e62b4a408	17e4650e-d054-4ace-8608-fd988c898723
+Parônimos		[ngb]	4bcc6621-339f-4bb9-bc87-711351b3b7cf	17e4650e-d054-4ace-8608-fd988c898723
+Polissemia		[ngb]	5df990dc-6822-4089-9a1e-20e5c87f218c	17e4650e-d054-4ace-8608-fd988c898723
+Sentido figurado	*	[Undefined]	13167d8e-6809-4bb0-9b17-803be9929dde	17e4650e-d054-4ace-8608-fd988c898723
+Sinônimos	Descreve uma palavra com igual significado	[ngb,cc]	aa8366e3-a402-4ed8-a289-e24c7cac1c9d	17e4650e-d054-4ace-8608-fd988c898723
