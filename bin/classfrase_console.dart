@@ -1,7 +1,8 @@
-import 'package:classfrase_console/google/ler_google_2json.dart';
-import 'package:classfrase_console/ngb/ngb.dart';
+import 'package:classfrase_console/google/phrases2b4a.dart';
 
 void main() {
   // ngb();
-  lerGoogle2Json();
+  // lerGoogle2Json();
+  // lerUsers2B4a();
+  lerPhrases2B4a();
 }
